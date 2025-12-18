@@ -1,0 +1,9 @@
+* interact
+
+CLIM library for interaction policies and input translation.
+
+|---------+-------------------------------------------------|
+| source  | git:https://codeberg.org/contrapunctus/interact.git |
+| commit  | 86dd955                                         |
+| systems | interact                                        |
+|---------+-------------------------------------------------|
